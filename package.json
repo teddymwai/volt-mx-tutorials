@@ -25,7 +25,7 @@
     "isomorphic-fetch": "^2.2.1",
     "js-base64": "^2.4.9",
     "js-cookie": "^2.2.0",
-    "jszip": "^3.6.0",
+    "jszip": "^3.8.0",
     "lodash": "^4.17.14",
     "moment": "latest",
     "multer": "^1.4.2",
